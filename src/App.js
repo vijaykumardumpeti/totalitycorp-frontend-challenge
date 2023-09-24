@@ -60,6 +60,8 @@ class App extends Component {
     this.setState({cartList: updatedCartList})
   }
 
+  /* add cart */
+
   addCartItem = product => {
     const {cartList} = this.state
     const productObject = cartList.find(
