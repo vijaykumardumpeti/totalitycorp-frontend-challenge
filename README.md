@@ -56,7 +56,7 @@ Ensuring a responsive design was a priority. I used CSS media queries to adapt t
 
 ## Deployment
 
-I deployed the application on Render. You can access the live demo [here] ([https://totality-corp-e-commerce.onrender.com/login]).
+I deployed the application on Render. You can access the live demo [here]([https://totality-corp-e-commerce.onrender.com/login]).
 
 ## How to Run Locally
 
