@@ -73,4 +73,3 @@ Feel free to explore the code in the repository and the live demo to see the ass
 
 Thank you for considering my submission. If you have any questions or need further information, please feel free to contact me.
 
-"dependencies": { "@testing-library/jest-dom": "^5.17.0", "@testing-library/react": "^13.4.0", "@testing-library/user-event": "^13.5.0", "js-cookie": "^3.0.5", "react": "^18.2.0", "react-dom": "^18.2.0", "react-icons": "^4.11.0", "react-loader-spinner": "^5.4.5", "react-scripts": "5.0.1", "web-vitals": "^2.1.4" },
