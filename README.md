@@ -69,6 +69,10 @@ I deployed the application on Render. You can access the live demo [here](https:
 
 Feel free to explore the code in the repository and the live demo to see the assignment in action.
 
+### Login Credentials
+- **username**: raja or rahul
+- **password**: raja@2021 or rahul@2021
+
 ---
 
 Thank you for considering my submission. If you have any questions or need further information, please feel free to contact me.
