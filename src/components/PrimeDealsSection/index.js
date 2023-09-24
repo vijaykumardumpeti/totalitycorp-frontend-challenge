@@ -102,5 +102,4 @@ class PrimeDealsSection extends Component {
     }
   }
 }
-
 export default PrimeDealsSection

@@ -9,7 +9,6 @@ const ProductsHeader = props => {
     const {changeSortby} = props
     changeSortby(event.target.value)
   }
-
   return (
     <div className="products-header">
       <h1 className="products-list-heading">All Products</h1>

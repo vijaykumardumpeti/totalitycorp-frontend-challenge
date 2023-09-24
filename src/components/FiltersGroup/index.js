@@ -12,7 +12,6 @@ const FiltersGroup = props => {
         activeRatingId === rating.ratingId ? `and-up active-rating` : `and-up`
 
       const onClickRatingItem = () => changeRating(rating.ratingId)
-
       return (
         <li
           className="rating-item"

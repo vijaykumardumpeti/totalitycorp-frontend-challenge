@@ -23,18 +23,20 @@ const Cart = () => (
             {showEmptyView ? (
               <EmptyCartView />
             ) : (
-              <div className="cart-content-container">
-                <h1 className="cart-heading">My Cart</h1>
-                <button
-                  type="button"
-                  className="remove-all-btn"
-                  onClick={onClickRemoveAllBtn}
-                >
-                  Remove All
-                </button>
-                <CartListView />
-                <CartSummary />
-              </div>
+              <>
+                <div className="cart-content-container">
+                  <h1 className="cart-heading">My Cart</h1>
+                  <button
+                    type="button"
+                    className="remove-all-btn"
+                    onClick={onClickRemoveAllBtn}
+                  >
+                    Remove All
+                  </button>
+                  <CartListView />
+                  <CartSummary />
+                </div>
+              </>
             )}
           </div>
         </>

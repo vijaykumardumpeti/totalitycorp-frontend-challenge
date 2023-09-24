@@ -129,7 +129,6 @@ class ProductItemDetails extends Component {
         const onClickAddToCart = () => {
           addCartItem({...productData, quantity})
         }
-
         return (
           <div className="product-details-success-view">
             <div className="product-details-container">
@@ -229,3 +228,5 @@ class ProductItemDetails extends Component {
 }
 
 export default ProductItemDetails
+
+/* Assignment Completed */

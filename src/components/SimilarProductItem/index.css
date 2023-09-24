@@ -10,12 +10,10 @@
     margin-right: 64px;
   }
 }
-
 .similar-product-img {
   width: 200px;
   border-radius: 8px;
 }
-
 .similar-product-title {
   color: #171f46;
   font-family: 'Roboto';

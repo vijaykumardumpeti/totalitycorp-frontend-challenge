@@ -15,6 +15,7 @@
       }
     }
   ],
+
   "proseWrap": "always",
   "quoteProps": "as-needed",
   "requirePragma": false,

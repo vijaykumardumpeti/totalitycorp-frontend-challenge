@@ -29,7 +29,6 @@ const Header = props => {
       }}
     </CartContext.Consumer>
   )
-
   return (
     <nav className="nav-header">
       <div className="nav-content">

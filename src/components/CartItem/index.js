@@ -24,6 +24,7 @@ const CartItem = props => (
       const onRemoveCartItem = () => {
         removeCartItem(id)
       }
+
       const totalPrice = price * quantity
 
       return (

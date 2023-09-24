@@ -5,7 +5,6 @@ import './index.css'
 const ProductCard = props => {
   const {productData} = props
   const {title, brand, imageUrl, rating, price, id} = productData
-
   return (
     <li className="product-item">
       <Link to={`/products/${id}`} className="link-item">

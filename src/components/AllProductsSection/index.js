@@ -13,6 +13,7 @@ const categoryOptions = [
     name: 'Clothing',
     categoryId: '1',
   },
+
   {
     name: 'Electronics',
     categoryId: '2',

@@ -27,5 +27,4 @@ const SimilarProductItem = props => {
     </li>
   )
 }
-
 export default SimilarProductItem

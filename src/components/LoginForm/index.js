@@ -53,7 +53,6 @@ class LoginForm extends Component {
 
   renderPasswordField = () => {
     const {password} = this.state
-
     return (
       <>
         <label className="input-label" htmlFor="password">
